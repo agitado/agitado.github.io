@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-Some information about you!
+Nada aqui por enquanto...
 
-### More Information
+### Mais informações
 
-A place to include any other types of information that you'd like to include about yourself.
+Nem aqui...
 
-### Contact me
+### Contato
 
-[email@domain.com](mailto:email@domain.com)
+Nã...
