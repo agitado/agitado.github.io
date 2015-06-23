@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Sobre
+title: Sobre o Método Agitado
 permalink: /sobre/
 ---
 
-Nada aqui por enquanto...
+O Método Agitado é uma metodologia de gerenciamento baseada no Guia PMBoK 5a. Edição, que usa intensamente o Git para integrar as informações e a documentação para projetos de todos os tipos.
 
-### Mais informações
+### Documentação
 
-Nem aqui...
+A documentação do Método Agitado está disponível [aqui](/documentacao).
 
-### Contato
+### Autor
 
-Nã...
+O Método Agitado foi concebido por [Luthiano Vasconcelos](http://www.luthiano.com). Caso tenha alguma dúvida ou sugestão, entre em [contato](http://facebook.com/luthiano).

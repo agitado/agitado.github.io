@@ -1,5 +1,5 @@
-# Blog do Luthiano Vasconcelos
+# Documentação do Método Agitado
 
-Esse é o repositório para meu blog pessoal baseado em [Jekyll](http://github.com/jekyll/jekyll) e hospedado no GitHub.
+Esse é o repositório para a documentação do [Método Agitado](http://agitado.luthiano.com).
 
-A estrutura básica do blog foi aforquilhada do projeto [Jekyll Now](http://github.com/barryclark/jekyll-now).
+Processado pelo [Jekyll](http://github.com/jekyll/jekyll) e hospedado no GitHub.
